@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise, are
-## from RMX3371_11_C.04.
+## from RMX3371_11_C.07.
 
 # ACDBs
 odm/etc/acdbdata/Bluetooth_cal.acdb
@@ -126,6 +126,7 @@ odm/lib/libaiboost_sr.so
 odm/lib/libc++_shared.so
 odm/lib/libosie_process.so
 odm/lib64/lib2DSlender.so
+odm/lib64/libAlgoInterface.so
 odm/lib64/libAlgoProcess.so
 odm/lib64/libAncFilter.so
 odm/lib64/libAncHumBokeh.so
@@ -643,6 +644,8 @@ odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
 odm/bin/init.oplus.fingerprints.sh
 odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc
 odm/etc/vintf/manifest/manifest_oplus_fingerprint.xml
+odm/lib/vendor.oplus.hardware.biometrics.fingerprint@2.1.so
+odm/lib64/vendor.oplus.hardware.biometrics.fingerprint@2.1.so
 odm/lib64/anc.hal.so
 odm/lib64/hw/fingerprint.goodix_G2.default.so
 odm/lib64/hw/fingerprint.goodix_G3.default.so
