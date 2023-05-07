@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_spartan.mk
+    $(LOCAL_DIR)/banana_spartan.mk
 
 COMMON_LUNCH_CHOICES := \
     banana_spartan-user \
